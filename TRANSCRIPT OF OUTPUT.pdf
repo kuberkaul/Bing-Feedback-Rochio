@@ -1,0 +1,484 @@
+TRANSCRIPT OF OUTPUT:
+CASE 1: Query -- > “gates”
+
+Enter Bing User key...
+gAQWhdOorE4LJ5ntPJT9mbKSemDzsrDxsN/xcZQA8Fo=
+Enter Desired Target Precision...
+0.9
+Enter the Search Query...
+gates
+
+##############Search Results##############
+
+Title #1: Gates Corporation
+Description #1: Gates Corporation is Powering Progressâ„¢ in the Oil & Gas, Energy, Mining, Marine,
+Agriculture, Transportation and Automotive Industries.
+URL #1: gates.com
+Result relevant ? (Y for Yes, other for No)
+n
+Title #2: Gates Snowmobile & ATV - Powering Progressâ„¢ in belts, hose ...
+Description #2: Gates Corporation is Powering Progressâ„¢ in the Oil & Gas, Energy, Mining, Marine,
+Agriculture, Transportation and Automotive Industries.
+URL #2: www.gates.com/?location_id=542
+Result relevant ? (Y for Yes, other for No)
+n
+Title #3: Bill Gates - Wikipedia, the free encyclopedia
+Description #3: William Henry "Bill" Gates III (born October 28, 1955) is an American business
+magnate and philanthropist. Gates is the former chief executive and current chairman of ...
+URL #3: en.wikipedia.org/wiki/Bill_Gates
+Result relevant ? (Y for Yes, other for No)
+y
+Title #4: Robert Gates - Wikipedia, the free encyclopedia
+Description #4: Robert Michael Gates (born September 25, 1943) is a retired civil servant and
+university president who served as the 22nd United States Secretary of Defense from 2006 ...
+URL #4: en.wikipedia.org/wiki/Robert_Gates
+Result relevant ? (Y for Yes, other for No)
+n
+Title #5: Gates Bar B.Q.
+Description #5: Offers BBQ ribs and other meats. Recipes, online sales of BBQ sauces and spices, and
+a history of the chain. Locations in Kansas and Missouri, United States.
+URL #5: www.gatesbbq.com
+Result relevant ? (Y for Yes, other for No)
+n
+Title #6: GATES, Florida construction, development, brokerage, leasing ...
+Description #6: Gates, Inc. - Providing South Florida construction, development, brokerage, leasing,
+and property management services.
+URL #6: www.gatesinc.com
+Result relevant ? (Y for Yes, other for No)
+n
+Title #7: Bill & Melinda Gates Foundation
+Description #7: Global Luminaries Issue Urgent Call for Polio-Free World Read Bill Gates' speech at
+the UN Event
+URL #7: www.gatesfoundation.org
+Result relevant ? (Y for Yes, other for No)
+y
+Title #8: Gates: New Windows 8 system is 'very exciting' - Yahoo! News
+Description #8: NEW YORK (AP) â€” Microsoft founder Bill Gates on Thursday called the new
+Windows 8 operating system scheduled for release next month "a very exciting new product ...
+URL #8: news.yahoo.com/gates-windows-8-system-very-exciting-161811335...
+Result relevant ? (Y for Yes, other for No)
+n
+Title #9: Bill Gates: Chairman - Microsoft Corporation: Software ...
+Description #9: Updated: Aug. 3, 2011. William (Bill) H. Gates is chairman of Microsoft Corporation,
+the worldwide leader in software, services and solutions that help ...
+URL #9: www.microsoft.com/en-us/news/exec/billg
+Result relevant ? (Y for Yes, other for No)
+y
+Title #10: Mighty Mule | Driveway Gates | Mighty Mule | Automatic | Solar ...
+Description #10: Purchase Mighty Mule Gates and Gate Openers Automatic Swing, Slide, Linear Arm,
+gate operators, Access systems - keypads, intercoms and remotes or gate accessories ...
+URL #10: www.mightymulegates.com
+Result relevant ? (Y for Yes, other for No)
+n
+Current Precision@10 : 0.3
+Added new Term====>>>>chairman
+Added new Term====>>>>1955
+##############Search Results##############
+Title #1: Bill Gates: Chairman - Microsoft Corporation: Software ...
+Description #1: Gates continues to serve as Microsoft's chairman and as an advisor on key
+development projects. ... Born on Oct. 28, 1955, Gates grew up in Seattle with his two ...
+URL #1: www.microsoft.com/en-us/news/exec/billg
+Result relevant ? (Y for Yes, other for No)
+y
+Title #2: Bill Gates - Wikipedia, the free encyclopedia
+Description #2: William Henry "Bill" Gates III (born October 28, 1955) is an American business
+magnate and philanthropist. Gates is the former chief executive and current chairman of ...
+URL #2: en.wikipedia.org/wiki/Bill_Gates
+Result relevant ? (Y for Yes, other for No)
+y
+Title #3: Bill Gates 1955â€” Biography - A precocious pioneer, Right ...
+Description #3: Cofounder and chairman, Microsoft Corporation Born: October 28, 1955, in Seattle,
+Washington. Education: Attended Harvard University, 1973â€“1975.
+URL #3: www.referenceforbusiness.com/biography/F-L/Gates-Bill-1955.html
+Result relevant ? (Y for Yes, other for No)
+y
+Title #4: Bill Gates Facts, information, pictures | Encyclopedia.com ...
+Description #4: Bill Gates 1955 â€“ Cofounder and chairman, Microsoft Corporation. Born: October
+28, 1955, in Seattle, Washington. Education: Attended Harvard University, 1973 â€“ 1975.
+URL #4: www.encyclopedia.com/topic/Bill_Gates.aspx
+Result relevant ? (Y for Yes, other for No)
+y
+Title #5: Bill Gates - the history of computing project
+Description #5: Gates born October 28, 1955 ... William H. Gates Chairman and Chief Executive
+Officer Microsoft Corporation
+URL #5: www.thocp.net/biographies/gates_bill.htm
+Result relevant ? (Y for Yes, other for No)
+y
+Title #6: Bill Gates (Chairman of Microsoft) - :: MaruGujarat :: GPSC,UPSC ...
+Description #6: Bill Gates (Chairman of Microsoft) Bill Gates was born on October 28, 1955 in a
+family having rich business, political and community service ...
+URL #6: https://sites.google.com/.../billgateschairmanofmicrosoft
+Result relevant ? (Y for Yes, other for No)
+y
+Title #7: Bill Gates Biography: Sultan Of Software - YouTube
+Description #7: William Henry "Bill" Gates III (born October 28, 1955) is an American ... Gates is the
+former CEO and current chairman of Microsoft, the software company he ...
+URL #7: www.youtube.com/watch?v=RHy9_RQbrnQ
+Result relevant ? (Y for Yes, other for No)
+y
+Title #8: Bill Gates - Biography and History of the Microsoft Chairman
+Description #8: Bill Gates came from a family of entrepreneurship and high-spirited liveliness.
+William Henry Gates III was born in Seattle, Washington on October 28th, 1955.
+URL #8: inventors.about.com/od/gstartinventors/a/Bill_Gates.htm
+Result relevant ? (Y for Yes, other for No)
+y
+Title #9: Biography Bill Gates - Generalissimo Web
+Description #9: William Henry "Bill" Gates III (born October 28, 1955) is an American business
+magnate and philanthropist. Gates is the former chief executive and current chairman of ...
+URL #9: generalissimo.org/kt134/biography-bill-gates
+Result relevant ? (Y for Yes, other for No)
+y
+Title #10: Bill Gates - Blackboard - Business Insider
+Description #10: William Henry "Bill" Gates III (born October 28, 1955) is an American business
+magnate, philanthropist, and chairman of Microsoft, the software company he founded ...
+URL #10: www.businessinsider.com/blackboard/bill-gates
+Result relevant ? (Y for Yes, other for No)
+y
+Current Precision@10 : 1.0
+Added new Term====>>>>bill
+Added new Term====>>>>business
+Target Precision achieved.
+
+
+CASE 2: Query -- > “bill”
+
+Enter Bing User key...
+gAQWhdOorE4LJ5ntPJT9mbKSemDzsrDxsN/xcZQA8Fo=
+Enter Desired Target Precision...
+0.9
+Enter the Search Query...
+bill
+
+##############Search Results##############
+
+Title #1: Business Bill pay | Accounts Payable & Online invoicing | Bill.com
+Description #1: Bill.com streamlines and automates your business bill payment, invoicing processes
+and gives you a complete visibility to your cash flow at any time
+URL #1: www.bill.com
+Result relevant ? (Y for Yes, other for No)
+n
+Title #2: Bill | Define Bill at Dictionary.com
+Description #2: noun 1. a statement of money owed for goods or services supplied: He paid the hotel
+bill when he checked out. 2. a piece of paper money worth a specified amount: a ...
+URL #2: dictionary.reference.com/browse/bill
+Result relevant ? (Y for Yes, other for No)
+n
+Title #3: Bill (law) - Wikipedia, the free encyclopedia
+Description #3: A bill is a proposed law under consideration by a legislature. A bill does not become
+law until it is passed by the legislature and, in most cases, approved by the ...
+URL #3: en.wikipedia.org/wiki/Bill_(proposed_law)
+Result relevant ? (Y for Yes, other for No)
+n
+Title #4: Bill Gates - Wikipedia, the free encyclopedia
+Description #4: William Henry "Bill" Gates III (born October 28, 1955) is an American business
+magnate and philanthropist. Gates is the former chief executive and current chairman of ...
+URL #4: en.wikipedia.org/wiki/Bill_Gates
+Result relevant ? (Y for Yes, other for No)
+y
+Title #5: Bill O'Reilly Official Home On The Web
+Description #5: BillOReilly.com is the home of Bill O'Reilly on the web.
+URL #5: www.billoreilly.com
+Result relevant ? (Y for Yes, other for No)
+n
+Title #6: bill - definition of bill by the Free Online Dictionary, Thesaurus ...
+Description #6: bill 1 (b l) n. 1. An itemized list or statement of fees or charges. 2. A statement or list
+of particulars, such as a theater program or menu. 3.
+URL #6: www.thefreedictionary.com/bill
+Result relevant ? (Y for Yes, other for No)
+n
+Title #7: Bill - The Left 4 Dead Wiki - Left 4 Dead, Left 4 Dead 2 ...
+Description #7: William "Bill" Overbeck is one of the four playable Survivors in Left 4 Dead. He is a
+Vietnam...
+URL #7: left4dead.wikia.com/wiki/Bill
+Result relevant ? (Y for Yes, other for No)
+n
+Title #8: bill - Wiktionary
+Description #8: Any of various bladed or pointed hand weapons, originally designating an Anglo-
+Saxon sword, and later a weapon of infantry, especially in the 14th and 15th ...
+URL #8: en.wiktionary.org/wiki/bill
+Result relevant ? (Y for Yes, other for No)
+n
+Title #9: The Bill - Home
+Description #9: Official site. News, plots, chat, merchandise and glimpses behind the scenes.
+URL #9: www.thebill.com
+Result relevant ? (Y for Yes, other for No)
+n
+Title #10: Bill - Bulbapedia, the community-driven PokÃ©mon encyclopedia
+Description #10: In the games. Bill is the talented and famous inventor. He invented the original
+PokÃ©mon Storage System and Time Capsule. People, including himself, call him a ...
+URL #10: bulbapedia.bulbagarden.net/wiki/Bill
+Result relevant ? (Y for Yes, other for No)
+n
+Current Precision@10 : 0.1
+Added new Term====>>>>born
+Added new Term====>>>>1955
+##############Search Results##############
+Title #1: Bill Gates - Wikipedia, the free encyclopedia
+Description #1: William Henry "Bill" Gates III (born October 28, 1955) is an American business
+magnate and philanthropist. Gates is the former chief executive and current chairman of ...
+URL #1: en.wikipedia.org/wiki/Bill_Gates
+Result relevant ? (Y for Yes, other for No)
+y
+Title #2: IMDb: Most Popular People Born In 1955
+Description #2: Bill Paxton Actor, Titanic Bill Paxton was born William Archibald Paxton on May 17,
+1955 in Fort Worth, Texas. He moved to Los Angeles, California at age 18, where he found ...
+URL #2: www.imdb.com/search/name?birth_year=1955
+Result relevant ? (Y for Yes, other for No)
+n
+Title #3: Born in 1955 - NNDB: Tracking the entire world
+Description #3: Born in 1955. LISTS ... 27-Nov-1955 : Bill Nye the Science Guy: James J. O'Brien:
+Business: 1955 : CEO of Ashland
+URL #3: www.nndb.com/lists/954/000105639
+Result relevant ? (Y for Yes, other for No)
+n
+Title #4: Astro: Bill Gates, birth date 28 October 1955, born in Seattle ...
+Description #4: Astrology data, biography and horoscope chart of: Bill Gates born on 28 October
+1955 Seattle, Washington
+URL #4: www.astro.com/astro-databank/Gates,_Bill
+Result relevant ? (Y for Yes, other for No)
+y
+Title #5: Famous Quotes by Famous People
+Description #5: Bill Gates (Born 1955) , Microsoft Founder, Playboy, 1994 It was during the glory
+years (of IBM), its years of greatest profit and greatest admiration , that it was ...
+URL #5: www.famous-quotations.com/asp/acquotes.asp?author=Bill+Gates+(Born+...
+Result relevant ? (Y for Yes, other for No)
+n
+Title #6: William or Bill Gates was born on October 28, 1955. American ...
+Description #6: Â» William or Bill Gates was born on October 28, 1955: The essays are ideal for those
+taking examinations in English Literature.
+URL #6: www.mannmuseum.com/william-or-bill-gates-was-born-on-october-28-1955
+Result relevant ? (Y for Yes, other for No)
+n
+Title #7: Bill Gates is born - Timelines.com
+Description #7: William Henry "Bill" Gates III (born October 28, 1955) is an American business
+magnate, philanthropist, and chairman of Microsoft, the software company he founded ...
+URL #7: timelines.com/1955/10/28/bill-gates-is-born
+Result relevant ? (Y for Yes, other for No)
+y
+Title #8: Why 1955 was a good year to be born to shape our future.
+Description #8: Astrological News: The role of astrology in computer genius: Steve Jobs, Bill Gates,
+Tim Berners Lee ...
+URL #8: www.astrology.co.uk/news/1955.htm
+Result relevant ? (Y for Yes, other for No)
+n
+Title #9: Bill Nye - Wikipedia, the free encyclopedia
+Description #9: William Sanford "Bill" Nye (born November 27, 1955), popularly known as Bill Nye
+the Science Guy, is an American science educator, comedian, television host, actor ...
+URL #9: en.wikipedia.org/wiki/Bill_Nye
+Result relevant ? (Y for Yes, other for No)
+n
+Title #10: Bill Gates Born (1955) | ESL Library Blog
+Description #10: Today is Bill Gatesâ€TM birthday. Bill Gates is the co-founder of the
+computersoftware
+company called Microsoft. Try our Famous People lesson plan.
+URL #10: esl-library.com/blog/2011/08/18/bill-gates-born-1955
+Result relevant ? (Y for Yes, other for No)
+y
+Current Precision@10 : 0.4
+Added new Term====>>>>business
+Added new Term====>>>>magnate
+##############Search Results##############
+Title #1: Bill Gates - Wikipedia, the free encyclopedia
+Description #1: William Henry "Bill" Gates III (born October 28, 1955) is an American business
+magnate and philanthropist. Gates is the former chief executive and current chairman of ...
+URL #1: en.wikipedia.org/wiki/Bill_Gates
+Result relevant ? (Y for Yes, other for No)
+y
+Title #2: Bill Gates Biography: Sultan Of Software - YouTube
+Description #2: William Henry "Bill" Gates III (born October 28, 1955) is an American business
+magnate, investor, philanthropist, and author. Gates is the former CEO and ...
+URL #2: www.youtube.com/watch?v=RHy9_RQbrnQ
+Result relevant ? (Y for Yes, other for No)
+y
+Title #3: Bill Gates - Latest news, videos, and information| NBC News - MSN.com
+Description #3: Business; Sports; Entertainment; Health; Tech & science; Travel; Local; Weather ...
+Bill Gates speaks at the Foundation for the National Institutes of Health ...
+URL #3: www.msnbc.msn.com/id/34799476/?q=Bill%20Gates
+Result relevant ? (Y for Yes, other for No)
+y
+Title #4: STARS WORLD: bill gates american business magnate
+Description #4: William Henry "Bill" Gates III, born October 28, 1955 is an American business
+magnate, philanthropist, author and is chairman of Microsoft, the software ...
+URL #4: woldstar.blogspot.com/2011/03/bill-gates-american-business-magnate...
+Result relevant ? (Y for Yes, other for No)
+y
+Title #5: hot male celeb: microsoft bill gates biography microsoft corporation
+Description #5: William Henry Bill Gates III was born October 28, 1955. He is an American business
+magnate, philanthropist, author, and chairman of Microsoft, the software ...
+URL #5: hotmaleceleb.blogspot.com/2009/03/microsoft-bill-gates-biography.html
+Result relevant ? (Y for Yes, other for No)
+y
+Title #6: CELEBRITY PLANET: American business magnate William Henry "Bill ...
+Description #6: William Henry "Bill" Gates III is an American business magnate ... William Gates III or
+"Trey" Born : October 28, 1955 (1955-10-28)
+URL #6: ponsscelebrity.blogspot.com/...business-magnate-william-henry.html
+Result relevant ? (Y for Yes, other for No)
+y
+Title #7: Bill Gates - 2nd place in World's Richest Man Top 2011
+Description #7: William Henry "Bill" Gates III (born October 28, 1955) is an American business
+magnate, investor, philanthropist, and author. Gates is the former CEO and current ...
+URL #7: world-richest-man.com/world_richest_man_2011/bill_gates
+Result relevant ? (Y for Yes, other for No)
+y
+Title #8: Bill Gates - Research Paper - Siddhanath
+Description #8: BIO-GRAPHY William Henry "Bill" Gates III (born October 28, 1955)[3] is an American
+business magnate, investor, philanthropist, author, and former CEO and current ...
+URL #8: www.studymode.com/essays/Bill-Gates-1105339.html
+Result relevant ? (Y for Yes, other for No)
+y
+Title #9: Topic: Bill Gates - Timelines.com
+Description #9: William Henry "Bill" Gates III (born October 28, 1955) is an American business
+magnate, philanthropist, and chairman of Microsoft, the software company he founded ...
+URL #9: timelines.com/topics/bill-gates
+Result relevant ? (Y for Yes, other for No)
+y
+Title #10: SEKIBOOK.com - (William) Bill GATES ID Card - BUS - 20th - USA - 1955
+Description #10: Bill GATES identity card. ... William Henry "Bill" Gates III (born October 28, 1955, in
+Seattle, Washington) is an American business magnate ...
+URL #10: www.sekibook.com/eng/G/A/T/EN_GATES_William_BUS_20pcn_USA_1955.htm
+Result relevant ? (Y for Yes, other for No)
+y
+Current Precision@10 : 1.0
+Added new Term====>>>>microsoft
+Added new Term====>>>>former
+Target Precision achieved.
+
+
+CASE 3: Query -- > “snow leopard”
+
+Enter Bing User key...
+gAQWhdOorE4LJ5ntPJT9mbKSemDzsrDxsN/xcZQA8Fo=
+Enter Desired Target Precision...
+0.9
+Enter the Search Query...
+snow leopard
+
+##############Search Results##############
+
+Title #1: Snow leopard - Wikipedia, the free encyclopedia
+Description #1: The snow leopard (Panthera uncia or Uncia uncia) is a moderately large cat native to
+the mountain ranges of Central Asia. The classification of this species has been ...
+URL #1: en.wikipedia.org/wiki/Uncia_(genus)
+Result relevant ? (Y for Yes, other for No)
+n
+Title #2: Apple - OS X Mountain Lion - Move your Mac even further ahead.
+Description #2: OS X Mountain Lion makes the Mac even better. And with so many new features,
+now the Mac works even better with iPhone, iPad, and iPod touch.
+URL #2: www.apple.com/osx
+Result relevant ? (Y for Yes, other for No)
+y
+Title #3: Snow Leopards, Snow Leopard Pictures, Snow Leopard Facts ...
+Description #3: Native to the Central Asian mountains, the snow leopard is a rare sight, with only
+about 6,000 left in the wild. They are hunted for their beautiful, warm fur and for ...
+URL #3: animals.nationalgeographic.com/animals/mammals/snow-leopard
+Result relevant ? (Y for Yes, other for No)
+n
+Title #4: Amazon.com: snow leopard - Clothing & Accessories
+Description #4: Snow Leopard Print Ultra Soft & Plush Infinity Circle Ring Scarf
+URL #4: www.amazon.com/s?ie=UTF8&keywords=snow%20leopard&page=1&rh=n%3A...
+Result relevant ? (Y for Yes, other for No)
+n
+Title #5: Snow Leopard Trust | Saving Snow Leopards
+Description #5: Located in Seattle, they work to protect the endangered snow leopard and its
+Central Asian habitat.
+URL #5: www.snowleopard.org
+Result relevant ? (Y for Yes, other for No)
+n
+Title #6: Amazon.com: snow leopard
+Description #6: Office Mac Home and Student 2011 - Family Pack (1 User/3 Installs) [Download] by
+Microsoft (Software Download - Oct. 26, 2010) - Mac OS X 10.5 Leopard / 10.6 Snow ...
+URL #6: www.amazon.com/s?ie=UTF8&page=1&rh=i%3Aaps%2Ck%3Asnow%20leopard
+Result relevant ? (Y for Yes, other for No)
+y
+Title #7: Mac OS X Snow Leopard - Wikipedia, the free encyclopedia
+Description #7: Mac OS X Snow Leopard (version 10.6) is the seventh major release of Mac OS X,
+Apple's desktop and server operating system for Macintosh computers. Snow Leopard was ...
+URL #7: en.wikipedia.org/wiki/Mac_OS_X_Snow_Leopard
+Result relevant ? (Y for Yes, other for No)
+y
+Title #8: snow leopard | eBay - Electronics, Cars, Fashion, Collectibles ...
+Description #8: Find snow leopard from a vast selection of Operating Systems. Shop eBay!
+URL #8: www.ebay.com/sch/i.html?_nkw=snow+leopard
+Result relevant ? (Y for Yes, other for No)
+n
+Title #9: Snow Leopard
+Description #9: Get fun and interesting snow leopard facts in an easy-to-read style from the San
+Diego Zoo's Animal Bytes. Buy tickets online and plan a visit to the Zoo or Safari Park.
+URL #9: www.sandiegozoo.org/animalbytes/t-snow_leopard.html
+Result relevant ? (Y for Yes, other for No)
+n
+Title #10: Review: Snow Leopard | Macworld - Apple, Mac, iPhone, iPad, and ...
+Description #10: Snow Leopard is a solid collection of tweaks and upgrades for a low price, Jason
+Snell says. Here's an in-depth review.
+URL #10: www.macworld.com/article/1142423
+Result relevant ? (Y for Yes, other for No)
+y
+Current Precision@10 : 0.4
+Added new Term====>>>>new
+Added new Term====>>>>features
+##############Search Results##############
+Title #1: Apple - OS X Mountain Lion - Move your Mac even further ahead.
+Description #1: OS X Mountain Lion makes the Mac even better. And with so many new features,
+now the Mac works even better with iPhone, iPad, and iPod touch.
+URL #1: www.apple.com/osx
+Result relevant ? (Y for Yes, other for No)
+y
+Title #2: Snow Leopard: New Features - YouTube
+Description #2: Showing off just a few of the new features in Mac OS X Snow Leopard (10.6) that I
+found about 10 minutes after installing. Full on Review will be coming ...
+URL #2: www.youtube.com/watch?v=xPk5F0snrXY
+Result relevant ? (Y for Yes, other for No)
+y
+Title #3: Mac OS X Snow Leopard - Wikipedia, the free encyclopedia
+Description #3: Mac OS X Snow Leopard (version 10.6) is the seventh major release of Mac OS X,
+Apple's desktop and server operating system for Macintosh computers. Snow Leopard was ...
+URL #3: en.wikipedia.org/wiki/Mac_OS_X_Snow_Leopard
+Result relevant ? (Y for Yes, other for No)
+y
+Title #4: Apple - OS X Mountain Lion â€” Use your Mac in so many new ways.
+Description #4: Send iMessages. Get notifications. Play against iOS gamers in Game Center. And
+more. With OS X Mountain Lion, great new features come to your Mac.
+URL #4: www.apple.com/osx/whats-new
+Result relevant ? (Y for Yes, other for No)
+y
+Title #5: Appleâ€TMs Snow Leopardâ€”an OS without new features | Macworld
+Description #5: Computerworldâ€TMs Dan Turner takes a closer look at the few details Apple has
+disclosed about Snow Leopard, the next version of OS X.
+URL #5: www.macworld.com/article/1133949/snowleopard.html
+Result relevant ? (Y for Yes, other for No)
+y
+Title #6: Ten Big New Features in Mac OS X Snow Leopard â€” RoughlyDrafted ...
+Description #6: June 23rd, 2008 Daniel Eran Dilger Apple is marketing the idea of there being â€œno
+new featuresâ€? for Snow Leopard and instead promising an overall improvement in ...
+URL #6: www.roughlydrafted.com/2008/...new-features-in-mac-os-x-snow-leopard
+Result relevant ? (Y for Yes, other for No)
+y
+Title #7: Mac OS X 10.6 Snow Leopard New Features | Video Tutorial from ...
+Description #7: Mac OS X has been rewritten from the ground up, and Mac OS X 10.6 Snow Leopard
+New Features highlights all of the most important and user-relevant aspects of this ...
+URL #7: www.lynda.com/OS-X-10-6-tutorials/mac-snow-leopard-new-features/...
+Result relevant ? (Y for Yes, other for No)
+y
+Title #8: Mac OS X - Apple Mac Lion and Snow Leopard reviews and news - CNET.com
+Description #8: CNET's comprehensive Mac OS X Lion and OS X Snow Leopard coverage: Get in-
+depth analysis of Lion's new features, how much it will cost you, what you'll ...
+URL #8: www.cnet.com/mac-os-x-snow-leopard
+Result relevant ? (Y for Yes, other for No)
+y
+Title #9: Snow leopard - Wikipedia, the free encyclopedia
+Description #9: The snow leopard ... but new studies show that the ability to roar is due to other
+morphological features, especially of the larynx, which are absent in the snow leopard.
+URL #9: en.wikipedia.org/wiki/Panthera_uncia
+Result relevant ? (Y for Yes, other for No)
+n
+Title #10: Review: Snow Leopard | Macworld - Apple, Mac, iPhone, iPad, and ...
+Description #10: Snow Leopard - Complete Coverage. More Stories in this Series. Snow Leopard:
+Complete Coverage; Review: Snow Leopard; 11 major new Snow Leopard features
+URL #10: www.macworld.com/article/1142423
+Result relevant ? (Y for Yes, other for No)
+y
+Current Precision@10 : 0.9
+Added new Term====>>>>version
+Added new Term====>>>>major
+Target Precision achieved.f
+
